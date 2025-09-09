@@ -1,33 +1,36 @@
-# 🚀 MetaCrypto  
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**MetaCrypto** is a **next-gen Web3 platform** designed to connect users seamlessly with **MetaMask** and **TokenPocket** wallets, combining **innovation, automation, and crypto solutions** in one place.  
+## Getting Started
 
-O **MetaCrypto** é uma **plataforma Web3 de nova geração**, criada para conectar usuários de forma simples e prática às carteiras **MetaMask** e **TokenPocket**, unindo **inovação, automação e soluções cripto** em um só lugar.  
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## 🔥 Features / Funcionalidades (Work in Progress / Em desenvolvimento)
-- 🔗 Wallet integration / Integração com carteiras (MetaMask & TokenPocket)  
-- ⚡ Fast, modern, and responsive interface / Interface moderna, rápida e responsiva  
-- 🤖 Automation tools connected / Ferramentas de automação conectadas
-- 📊 Future-ready dashboards and interactive tools / Dashboards e ferramentas interativas futuras  
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 🎯 Vision / Visão  
-**EN**: Our goal is to create a **simple, intuitive, and secure** Web3 experience that makes crypto **accessible** and **innovative** for everyone.  
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-**PT-BR**: Nosso objetivo é criar uma experiência Web3 **simples, intuitiva e segura**, tornando o universo cripto mais **acessível** e **inovador** para todos.  
+## Learn More
 
----
+To learn more about Next.js, take a look at the following resources:
 
-## 🛠️ Tech Stack / Tecnologias  
-- **Next.js** (React Framework)  
-- **Tailwind CSS** (UI & Styling / Estilização)  
-- **Web3.js / Ethers.js** (Blockchain integration / Integração com Blockchain)  
-- **Vercel** (Deployment / Deploy)  
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Stay tuned for updates and contributions!  
-Acompanhe as atualizações e contribuições!  
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
